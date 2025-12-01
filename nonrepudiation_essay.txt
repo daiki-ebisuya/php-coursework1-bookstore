@@ -1,0 +1,22 @@
+# Nonrepudiation in Digital Systems
+
+1.Nonrepudiation is a security concept that ensures a person cannot deny an action they performed in a digital system.
+It provides reliable proof that a specific user carried out a specific operation, such as sending a message or making a transaction. In practical terms, it prevents someone from claiming like “I didn’t do that,” 
+when the system has clear evidence that they did.
+    This idea is important because most online interactions happen without direct human contact, so systems need a way to verify actions with confidence and record.
+
+2.For an online bookstore, nonrepudiation matters especially when handling orders and payments.
+    Customers need to trust that their transactions are recorded correctly,
+    and the store must be able to confirm who placed an order and when. Without nonrepudiation,
+    a buyer could dispute a purchase or claim that a payment was made by mistake,
+    which would create problems for both sides.
+    Strong nonrepudiation helps maintain fairness, reduces fraud, and protects the integrity of transaction records.
+
+3.Logging is one method to support nonrepudiation, but there are other useful technologies as well.
+    Digital signatures can verify a user’s identity through cryptographic keys.
+    Audit trails track important actions step by step.
+    Hash functions can show whether data has been changed.
+    Some systems even use blockchain to store records in a tamper-resistant way.
+    By combining these tools, digital services can improve trust and strengthen overall security.
+
+(196 words)
