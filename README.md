@@ -7,6 +7,7 @@ Online Bookstore (PHP Coursework 1)
 This project is a simple online bookstore built in PHP as the final assignment for Week 1.  
 It demonstrates the use of associative arrays, functions, conditionals, loops, POST data handling,  
 server metadata, date/time functions, file logging, and basic HTML output formatting.
+However discount apply only "Science Fiction" & "Fantasy", not apply even added-book-genre by "science fiction","fantasy".
 
 This application allows users to:
 - View a list of books
